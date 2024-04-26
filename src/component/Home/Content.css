@@ -1,0 +1,88 @@
+
+.container2{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:50px;
+    padding-right:50px;
+    height:auto;
+    width: 100%;
+    border-bottom:gray solid;
+    
+}
+.title{
+
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:30px;
+}
+.content{
+    font-size: larger;
+    font-weight: 400;
+    font-stretch: expanded;
+
+}
+.container3{
+    border-bottom: gray solid;
+}
+.under-container3{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+     }
+.row1{
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.row2{
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.row3{
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.row4{
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.row5{
+
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.row6{
+    height:auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.rowImg{
+    padding:30px;
+}
+.rowContent{
+    padding:30px;
+    font-size: large
+}
+.container4{
+    height:auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    width: 100%;
+    border-bottom: gray solid;
+}
